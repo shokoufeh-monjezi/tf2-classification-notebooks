@@ -17,7 +17,7 @@ Object detection is a popular computer vision technique that can detect one or m
 To help you get started, we have created a few Jupyter Notebooks that can be easily deployed on Vertex AI using NGC’s quick deploy feature. This feature automatically sets up the Vertex AI instance with an optimal configuration needed for training the model.
 
 #### Learning Objective
-This notebook shows an example use case for classification using the Train Adapt Optimize (TAO) Toolkit.We will be using the pascal VOC dataset for the tutorial.
+This notebook shows an example use case for classification using the Train Adapt Optimize (TAO) Toolkit.We will be using the pascal VOC dataset for the tutorial.We train, prune, finetune and inference the model in this notebook.
 
 Simply click on the button that reads “**Deploy to Vertex AI**” and follow the instructions.
 
@@ -36,4 +36,7 @@ By pulling and using the TAO Toolkit container, you accept the terms and conditi
 - [Train like a ‘pro’ without being an AI expert using TAO AutoML](https://developer.nvidia.com/blog/training-like-an-ai-pro-using-tao-automl/)
 - [Developing and Deploying AI-powered Robots with NVIDIA Isaac Sim and NVIDIA TAO](https://developer.nvidia.com/blog/developing-and-deploying-ai-powered-robots-with-nvidia-isaac-sim-and-nvidia-tao/)
 - Learn endless ways to adapt and supercharge your AI workflows with TAO - [Whitepaper](https://developer.nvidia.com/tao-toolkit-usecases-whitepaper/1-introduction)
+
+
+
 
